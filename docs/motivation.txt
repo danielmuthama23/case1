@@ -1,0 +1,4 @@
+a. What excites you about Humaein?
+I am excited about Humaein's mission to prioritize patient care over paperwork. The opportunity to leverage AI to streamline healthcare processes and improve efficiency aligns with my passion for using technology to solve real-world problems.
+b. Why you are the best fit for us?
+With a strong background in full-stack development and experience in data engineering and automation, I bring the skills needed to build robust pipelines and intelligent agents. My ability to handle inconsistent data, implement modular code, and adapt to new challenges makes me a great fit for Humaein's innovative team.

@@ -1,0 +1,6 @@
+claim_id,patient_id,procedure_code,denial_reason,submitted_at,status,source_system
+A125,,99215,Authorization expired,2025-07-05,denied,alpha
+A126,P003,99381,,2025-07-15,approved,alpha
+B987,P010,99213,Incorrect provider type,2025-07-03,denied,beta
+B989,P012,99215,,2025-07-10,approved,beta
+B990,,99401,incorrect procedure,2025-07-01,denied,beta
